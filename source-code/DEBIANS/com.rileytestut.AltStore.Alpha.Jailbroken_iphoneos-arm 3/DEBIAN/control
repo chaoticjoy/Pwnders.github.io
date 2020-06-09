@@ -1,0 +1,10 @@
+Package: com.rileytestut.altstore.alpha.jailbroken
+Section: Tweaks
+Maintainer: Riley Testut
+Depends: firmware (>=12.2), com.rileytestut.altdaemon
+Architecture: iphoneos-arm
+Version: 1.4a4
+Size: 3124474
+Description: Jailbroken version of AltStore with on device signing feauture.
+Name: AltStore (ALPHA)
+Author: Riley Testut - T7Y
