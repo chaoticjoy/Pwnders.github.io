@@ -22,7 +22,7 @@ Depends: firmware (>=12.2)
 Architecture: iphoneos-arm
 Version: 0.2
 Filename: ./debs/AltDaemon.deb
-Size: 873258
+Size: 873486
 Description: AltDaemon allows AltStore to install and refresh apps without a computer.
 Name: AltDaemon
 Icon: https://pwnders.github.io/repo/icons/AltDaemon.png
