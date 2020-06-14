@@ -1,3 +1,33 @@
+Package: tech.saunders.tutucrack
+Name: TutuCrack
+Version: 3.2.2-1
+Architecture: iphoneos-arm
+Description: tutuapp vip, but cracked for jb state. This .deb has been made by @CrafterPika (twitter)
+Author: Saunders Tech, Thunder7Yoshi, Shiro
+Maintainer: Saunders Tech, Thunder7Yoshi, Shiro
+Section: Tweaks
+Depends: net.angelxwind.appsyncunified, com.linusyang.appinst, tech.saunders.tutucrack-patch, com.tigisoftware.appdatamanager
+Filename: ./debs/tech.saunders.tutucrack_3.2.2-1_iphoneos-arm.deb
+Size: 25668918
+MD5sum: d051282b3c133a22a79da80dce3f4028
+SHA1: 1ff9f109566291ffd8d5b614608c3b5c3dd105dd
+SHA256: 8adf88d953481536db7a1d273fd972d9d8e8a6647431ac9296892cb40807c100
+
+Package: tech.saunders.tutucrack-patch
+Name: TutuCrack (Flex3 Patch)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A Flex 3 Patch for TutuApp Cracking. This .deb has been made by @CrafterPika (twitter)
+Author: Saunders Tech
+Maintainer: Saunders Tech
+Section: Tweaks
+Depends: com.johncoates.Flex3
+Filename: ./debs/tech.saunders.tutucrack-patch_1.0_iphoneos-arm.deb
+Size: 7608
+MD5sum: c1304c731db5da43041c101a596c1904
+SHA1: 98551d233bb5fcf62ab414866100ef26681e11ca
+SHA256: 1e88393af026c8fa14a2b033cf4925e31464c3b8f2550fc90c0e2a206d7e6c56
+
 Package: com.rileytestut.altstore.alpha.jailbroken
 Section: Tweaks
 Maintainer: Riley Testut
