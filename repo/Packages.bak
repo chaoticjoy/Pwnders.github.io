@@ -1,3 +1,4 @@
+
 Package: tech.saunders.tutucrack
 Name: TutuCrack
 Version: 3.2.2-1
@@ -15,9 +16,24 @@ SHA256: 8adf88d953481536db7a1d273fd972d9d8e8a6647431ac9296892cb40807c100
 
 Package: tech.saunders.tutucrack-patch
 Name: TutuCrack (Flex3 Patch)
+Version: 1.0-1
+Architecture: iphoneos-arm
+Description: A Flex 3 Patch for TutuApp Cracking. This .deb has been made by @CrafterPika (twitter) | !!!PLEASE BACKUP YOUR FLEX3 PATCHES BEFORE INSTALLING THIS!!!
+Author: Saunders Tech
+Maintainer: Saunders Tech
+Section: Tweaks
+Depends: com.johncoates.Flex3
+Filename: ./debs/tech.saunders.tutucrack-patch_1.0-1_iphoneos-arm.deb
+Size: 4476
+MD5sum: 35d8a2c4b5504cfc9190eff6ac2ebe41
+SHA1: 7907e069fd28bdd5ecae2c96823f88dfd1b52bce
+SHA256: a4c3cc169845f7aa6cab0287a84440cd9f6bd3e9440ccaa5483645a4f845fe65
+
+Package: tech.saunders.tutucrack-patch
+Name: TutuCrack (Flex3 Patch)
 Version: 1.0
 Architecture: iphoneos-arm
-Description: A Flex 3 Patch for TutuApp Cracking. This .deb has been made by @CrafterPika (twitter)
+Description: A Flex 3 Patch for TutuApp Cracking. This .deb has been made by @CrafterPika (twitter) | !!!PLEASE BACKUP YOUR FLEX3 PATCHES BEFORE INSTALLING THIS!!!
 Author: Saunders Tech
 Maintainer: Saunders Tech
 Section: Tweaks
