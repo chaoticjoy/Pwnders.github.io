@@ -11,7 +11,7 @@ Filename: ./debs/tech.saunders.tutucrack_3.2.2-2_iphoneos-arm.deb
 Size: 25668948
 MD5sum: fa2ef91ba2dac509ffbb12e332446216
 SHA1: 7f628c537e32332ec32e07d2c351cfd8864ceae9
-SHA256: 7f628c537e32332ec32e07d2c351cfd8864ceae9
+SHA256: e9f449a1e6014920653b17255eb0a6231bc240452fbe5ce9b88f27157e4115a7
 
 Package: tech.saunders.tutcrackpatch
 Name: TutuCrack (Patch)
