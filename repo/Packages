@@ -29,51 +29,6 @@ MD5sum: 5d6da871ee92670aad55434800ab2677
 SHA1: fde35563c5ed17d4d3925f37761d42e9d20e37e9
 SHA256: 1390993a24c5a5a2bc7bf89776957987e258201f0495fc39e7bb82fae7fca39e
 
-Package: tech.saunders.tutucrack-patch
-Name: TutuCrack (Flex3 Patch) (OUTDATED)
-Version: 1.0-2
-Architecture: iphoneos-arm
-Description: A Flex 3 Patch for TutuApp Cracking. This .deb has been made by @CrafterPika (twitter) | !!!PLEASE BACKUP YOUR FLEX3 PATCHES BEFORE INSTALLING THIS!!! | Please add "https://getdelta.co" to get the install working.
-Author: Saunders Tech
-Maintainer: Saunders Tech
-Section: Tweaks
-Depends: flex3beta
-Filename: ./debs/tech.saunders.tutucrack-patch_1.0-2_iphoneos-arm.deb
-Size: 4472
-MD5sum: 30093f7b9ae7e362d382528ffac498f8
-SHA1: e9b2600b8e89bf0c5765a0ddf5e32613dc77f0c9
-SHA256: 53ed0c9a4f1c85fbab181b83945f701ab765b472ef9c5d6ee23bf4492480f5de
-
-Package: tech.saunders.tutucrack-patch
-Name: TutuCrack (Flex3 Patch) (OUTDATED)
-Version: 1.0-1
-Architecture: iphoneos-arm
-Description: A Flex 3 Patch for TutuApp Cracking. This .deb has been made by @CrafterPika (twitter) | !!!PLEASE BACKUP YOUR FLEX3 PATCHES BEFORE INSTALLING THIS!!!
-Author: Saunders Tech
-Maintainer: Saunders Tech
-Section: Tweaks
-Depends: com.johncoates.Flex3
-Filename: ./debs/tech.saunders.tutucrack-patch_1.0-1_iphoneos-arm.deb
-Size: 4476
-MD5sum: 35d8a2c4b5504cfc9190eff6ac2ebe41
-SHA1: 7907e069fd28bdd5ecae2c96823f88dfd1b52bce
-SHA256: a4c3cc169845f7aa6cab0287a84440cd9f6bd3e9440ccaa5483645a4f845fe65
-
-Package: tech.saunders.tutucrack-patch
-Name: TutuCrack (Flex3 Patch) (OUTDATED)
-Version: 1.0
-Architecture: iphoneos-arm
-Description: A Flex 3 Patch for TutuApp Cracking. This .deb has been made by @CrafterPika (twitter) | !!!PLEASE BACKUP YOUR FLEX3 PATCHES BEFORE INSTALLING THIS!!!
-Author: Saunders Tech
-Maintainer: Saunders Tech
-Section: Tweaks
-Depends: com.johncoates.Flex3
-Filename: ./debs/tech.saunders.tutucrack-patch_1.0_iphoneos-arm.deb
-Size: 7608
-MD5sum: c1304c731db5da43041c101a596c1904
-SHA1: 98551d233bb5fcf62ab414866100ef26681e11ca
-SHA256: 1e88393af026c8fa14a2b033cf4925e31464c3b8f2550fc90c0e2a206d7e6c56
-
 Package: com.rileytestut.altstore.alpha.jailbroken
 Section: Tweaks
 Maintainer: Riley Testut
