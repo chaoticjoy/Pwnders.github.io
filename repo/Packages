@@ -32,3 +32,20 @@ MD5sum: da9adf74b588bad97fffa70d67273ead
 SHA1: d4d36d2b5d1877963c4ca4b2de952640105135bb
 SHA256: d5a225612d6fcacf886a67760db19932e908d90c41a37f4d046699ca9a2a61be
 Depiction: https://pwnders.github.io/repo/packageInfo/AltDaemon.html
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
+Architecture: iphoneos-arm
+Description: You can HIDE Doing jailbreak your iDevice.
+Maintainer: XsF1re
+Author: XsF1re
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+Version: 0.2.5.3
+Installed-Size: 1264
+Size: 500242
+MD5sum: 52686617099b501e13b2ac91b74060d2
+SHA1: acd848e21ceb4d18570fe95500888f358e20d297
+SHA256: 310749cde2ea319ca06fc65f6c2da4ff02cb2def56acae9ba0d6093e8955c34f
+Filename: ./debs/kr.xsf1re.flyjb_0.2.5.3_iphoneos-arm.deb
